@@ -182,7 +182,7 @@ export default {
       .item 
         flex 1
         padding 10px 20px
-        height 110px
+        height 130px
         margin-top 10px
         text-align center
         font-size 16px

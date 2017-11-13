@@ -37,4 +37,7 @@ export default {
   color: #2c3e50;
   line-height: 1
 }
+a{
+  color: #666;
+}
 </style>

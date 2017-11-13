@@ -131,7 +131,7 @@ export default {
     .rebate_top
       position: relative
       padding 20px
-      height 100px
+      height 120px
       background $mainColor
       color #fff
       .tit
@@ -142,7 +142,7 @@ export default {
     .main
 
       .item
-        height 70px
+        height 130px
         padding 20px 
         background #fff
         margin-top 20px
